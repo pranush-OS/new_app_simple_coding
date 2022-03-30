@@ -69,7 +69,7 @@ class _HomeState extends State<Home> {
 
   Future<void> getData() async {
     String url =
-        "http://newsapi.org/v2/top-headlines?category=$category&country=$country&apiKey=6f128daca8c143e391d0009eba9c8f5c";
+        "http://newsapi.org/v2/top-headlines?category=$category&country=$country&apiKey=$ApiKey";
     http.Response response = await http.get(Uri.parse(url));
     var jsonData = jsonDecode(response.body.toString());
     return jsonData;
