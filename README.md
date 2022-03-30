@@ -1,4 +1,4 @@
-# new_app_simple_coding
+# news_app_with_simple_coding
 Understandable simple coded news app for beginners 
 
 
