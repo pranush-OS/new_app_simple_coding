@@ -1,2 +1,9 @@
 # new_app_simple_coding
-Understandable simple coded new app for beginners 
+Understandable simple coded news app for beginners 
+
+
+easy to understand
+
+data sharing between stateful widgets
+
+poorly coded so begginers can easily understand
